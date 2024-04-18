@@ -1,1 +1,1 @@
-{"base": "cddb2d3", "parent": "debian/rolling/gz_physics_vendor", "previous": "2f610d6", "trim": "", "trimbase": ""}
+{"base": "656424c", "parent": "debian/jazzy/gz_physics_vendor", "previous": "31898f7", "trim": "", "trimbase": ""}
