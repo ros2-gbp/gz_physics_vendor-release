@@ -4,7 +4,7 @@ project(gz_physics_vendor)
 
 # Project-specific settings
 set(LIB_VER_MAJOR 7)
-set(LIB_VER_MINOR 2)
+set(LIB_VER_MINOR 3)
 set(LIB_VER_PATCH 0)
 
 # Derived variables
