@@ -2,6 +2,16 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.0 (2024-09-30)
+------------------
+* Bump version to 8.0.0 (`#3 <https://github.com/gazebo-release/gz_physics_vendor/issues/3>`_)
+* Apply prerelease suffix (`#2 <https://github.com/gazebo-release/gz_physics_vendor/issues/2>`_)
+  * Apply prerelease suffix
+  * Drop BUILD_DOCS
+  ---------
+* Upgrade to Ionic
+* Contributors: Addisu Z. Taddese
+
 0.1.1 (2024-07-15)
 ------------------
 * Update vendored package version to 7.3.0
