@@ -1,0 +1,12 @@
+Source: ros-rolling-gz-physics-vendor
+Section: misc
+Priority: optional
+Maintainer: Addisu Z. Taddese <addisuzt@intrinsic.ai>
+Build-Depends: debhelper (>= 9.0.0), cmake, libbenchmark-dev, libbullet-dev, libeigen3-dev, ros-rolling-ament-cmake-copyright <!nocheck>, ros-rolling-ament-cmake-core, ros-rolling-ament-cmake-lint-cmake <!nocheck>, ros-rolling-ament-cmake-test, ros-rolling-ament-cmake-vendor-package, ros-rolling-ament-cmake-xmllint <!nocheck>, ros-rolling-gz-cmake-vendor, ros-rolling-gz-common-vendor, ros-rolling-gz-dartsim-vendor, ros-rolling-gz-math-vendor, ros-rolling-gz-plugin-vendor, ros-rolling-gz-utils-vendor, ros-rolling-sdformat-vendor, ros-rolling-ros-workspace
+Homepage: https://github.com/gazebosim/gz-physics
+Standards-Version: 3.9.2
+
+Package: ros-rolling-gz-physics-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libbenchmark-dev, libbullet-dev, libeigen3-dev, ros-rolling-gz-cmake-vendor, ros-rolling-gz-common-vendor, ros-rolling-gz-dartsim-vendor, ros-rolling-gz-math-vendor, ros-rolling-gz-plugin-vendor, ros-rolling-gz-utils-vendor, ros-rolling-sdformat-vendor, ros-rolling-ros-workspace
+Description: Vendor package for: gz-physics8 8.1.0 Gazebo Physics : Physics classes and functions for robot applications
