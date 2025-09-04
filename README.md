@@ -1,3 +1,26 @@
+## gz_physics_vendor (rolling) - 0.3.0-1
+
+The packages in the `gz_physics_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling gz_physics_vendor` on `Thu, 04 Sep 2025 21:20:12 -0000`
+
+The `gz_physics_vendor` package was released.
+
+Version of package(s) in repository `gz_physics_vendor`:
+
+- upstream repository: https://github.com/gazebo-release/gz_physics_vendor.git
+- release repository: https://github.com/ros2-gbp/gz_physics_vendor-release.git
+- rosdistro version: `0.2.2-1`
+- old version: `0.2.2-1`
+- new version: `0.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## gz_physics_vendor (rolling) - 0.2.2-1
 
 The packages in the `gz_physics_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release gz_physics_vendor --ros-distro rolling --track rolling` on `Fri, 27 Jun 2025 16:27:07 -0000`
