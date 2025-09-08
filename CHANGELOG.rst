@@ -2,10 +2,21 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.3 (2025-09-04)
+0.4.0 (2025-09-08)
 ------------------
-* Bump version to 8.3.0 (`#10 <https://github.com/gazebo-release/gz_physics_vendor/issues/10>`_)
+* Jetty support: 9.0.0-pre1 (`#12 <https://github.com/gazebo-release/gz_physics_vendor/issues/12>`_)
+* Contributors: Steve Peters
+
+0.3.0 (2025-09-04)
+------------------
+* Bump version to 8.3.0 (`#11 <https://github.com/gazebo-release/gz_physics_vendor/issues/11>`_)
 * Contributors: Ian Chen
+
+0.2.2 (2025-06-27)
+------------------
+* Merge pull request (`#9 <https://github.com/gazebo-release/gz_physics_vendor/issues/9>`_)
+* Bump version to 8.2.0
+* Contributors: Jose Luis Rivero
 
 0.2.1 (2025-02-19)
 ------------------
