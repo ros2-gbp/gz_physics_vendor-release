@@ -2,6 +2,14 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.2 (2025-10-01)
+------------------
+* Merge pull request `#15 <https://github.com/gazebo-release/gz_physics_vendor/issues/15>`_ from gazebo-release/releasepy/rolling/9.0.0
+  Bump version to 9.0.0
+* Bump version to 9.0.0
+* Add dsv for PYTHONPATH for Jetty packages (`#14 <https://github.com/gazebo-release/gz_physics_vendor/issues/14>`_)
+* Contributors: Ian Chen, Jose Luis Rivero, Steve Peters
+
 0.4.1 (2025-09-24)
 ------------------
 * Bump version to 9.0.0-pre2 (`#13 <https://github.com/gazebo-release/gz_physics_vendor/issues/13>`_)
