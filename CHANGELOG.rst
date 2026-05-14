@@ -2,6 +2,9 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.0 (2026-05-14)
+------------------
+
 0.4.3 (2026-01-22)
 ------------------
 * Bump version to 9.1.0 (`#17 <https://github.com/gazebo-release/gz_physics_vendor/issues/17>`_)
