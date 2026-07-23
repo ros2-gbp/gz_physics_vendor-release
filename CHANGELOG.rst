@@ -2,6 +2,11 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.5 (2026-07-23)
+------------------
+* Bump version to 9.4.0 (`#24 <https://github.com/gazebo-release/gz_physics_vendor/issues/24>`_)
+* Contributors: Steve Peters
+
 0.4.4 (2026-06-09)
 ------------------
 * Bump version to 9.3.0 (`#20 <https://github.com/gazebo-release/gz_physics_vendor/issues/20>`_)
