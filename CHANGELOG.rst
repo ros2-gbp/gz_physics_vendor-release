@@ -2,20 +2,59 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.5 (2026-08-31)
+0.4.7 (2026-09-01)
 ------------------
-* Enable Python bindings (`#29 <https://github.com/gazebo-release/gz_physics_vendor/issues/29>`_)
+* Bump version to 9.5.1 (`#30 <https://github.com/gazebo-release/gz_physics_vendor/issues/30>`_)
 * Contributors: Addisu Z. Taddese
 
-0.2.4 (2026-07-23)
+0.4.6 (2026-08-26)
 ------------------
-* Bump version to 8.4.0 (`#25 <https://github.com/gazebo-release/gz_physics_vendor/issues/25>`_)
+* Bump version to 9.5.0 (`#28 <https://github.com/gazebo-release/gz_physics_vendor/issues/28>`_)
 * Contributors: Arjo Chakravarty
 
-0.2.3 (2025-09-04)
+0.4.5 (2026-07-23)
 ------------------
-* Bump version to 8.3.0 (`#10 <https://github.com/gazebo-release/gz_physics_vendor/issues/10>`_)
+* Bump version to 9.4.0 (`#24 <https://github.com/gazebo-release/gz_physics_vendor/issues/24>`_)
+* Contributors: Steve Peters
+
+0.4.4 (2026-06-09)
+------------------
+* Bump version to 9.3.0 (`#20 <https://github.com/gazebo-release/gz_physics_vendor/issues/20>`_)
 * Contributors: Ian Chen
+
+0.4.3 (2026-01-22)
+------------------
+* Bump version to 9.1.0 (`#17 <https://github.com/gazebo-release/gz_physics_vendor/issues/17>`_)
+* Contributors: Ian Chen
+
+0.4.2 (2025-10-01)
+------------------
+* Merge pull request `#15 <https://github.com/gazebo-release/gz_physics_vendor/issues/15>`_ from gazebo-release/releasepy/rolling/9.0.0
+  Bump version to 9.0.0
+* Bump version to 9.0.0
+* Add dsv for PYTHONPATH for Jetty packages (`#14 <https://github.com/gazebo-release/gz_physics_vendor/issues/14>`_)
+* Contributors: Ian Chen, Jose Luis Rivero, Steve Peters
+
+0.4.1 (2025-09-24)
+------------------
+* Bump version to 9.0.0-pre2 (`#13 <https://github.com/gazebo-release/gz_physics_vendor/issues/13>`_)
+* Contributors: Addisu Z. Taddese
+
+0.4.0 (2025-09-08)
+------------------
+* Jetty support: 9.0.0-pre1 (`#12 <https://github.com/gazebo-release/gz_physics_vendor/issues/12>`_)
+* Contributors: Steve Peters
+
+0.3.0 (2025-09-04)
+------------------
+* Bump version to 8.3.0 (`#11 <https://github.com/gazebo-release/gz_physics_vendor/issues/11>`_)
+* Contributors: Ian Chen
+
+0.2.2 (2025-06-27)
+------------------
+* Merge pull request (`#9 <https://github.com/gazebo-release/gz_physics_vendor/issues/9>`_)
+* Bump version to 8.2.0
+* Contributors: Jose Luis Rivero
 
 0.2.1 (2025-02-19)
 ------------------
