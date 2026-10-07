@@ -2,30 +2,28 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.4.8 (2026-09-29)
+0.5.4 (2026-10-06)
 ------------------
-* Bump version to 9.5.2 (`#33 <https://github.com/gazebo-release/gz_physics_vendor/issues/33>`_)
-* Contributors: Luca Della Vedova
-
-0.4.7 (2026-09-01)
-------------------
-* Bump version to 9.5.1 (`#30 <https://github.com/gazebo-release/gz_physics_vendor/issues/30>`_)
+* Bump version to 10.0.0~pre2 (`#34 <https://github.com/gazebo-release/gz_physics_vendor/issues/34>`_)
 * Contributors: Addisu Z. Taddese
 
-0.4.6 (2026-08-26)
+0.5.3 (2026-08-25)
 ------------------
-* Bump version to 9.5.0 (`#28 <https://github.com/gazebo-release/gz_physics_vendor/issues/28>`_)
-* Contributors: Arjo Chakravarty
+* Upgrade to Rotary prerelease (`#26 <https://github.com/gazebo-release/gz_physics_vendor/issues/26>`_)
+* Contributors: Addisu Z. Taddese
 
-0.4.5 (2026-07-23)
+0.5.2 (2026-07-23)
 ------------------
-* Bump version to 9.4.0 (`#24 <https://github.com/gazebo-release/gz_physics_vendor/issues/24>`_)
+* Bump version to 9.4.0 (`#23 <https://github.com/gazebo-release/gz_physics_vendor/issues/23>`_)
 * Contributors: Steve Peters
 
-0.4.4 (2026-06-09)
+0.5.1 (2026-06-09)
 ------------------
-* Bump version to 9.3.0 (`#20 <https://github.com/gazebo-release/gz_physics_vendor/issues/20>`_)
+* Bump version to 9.3.0 (`#19 <https://github.com/gazebo-release/gz_physics_vendor/issues/19>`_)
 * Contributors: Ian Chen
+
+0.5.0 (2026-05-14)
+------------------
 
 0.4.3 (2026-01-22)
 ------------------
