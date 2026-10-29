@@ -2,53 +2,43 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.7 (2026-10-29)
-------------------
-* Bump version to 8.5.0 (`#36 <https://github.com/gazebo-release/gz_physics_vendor/issues/36>`_)
+0.0.10 (2026-10-29)
+-------------------
+* Bump version to 7.9.0 (`#37 <https://github.com/gazebo-release/gz_physics_vendor/issues/37>`_)
 * Contributors: Carlos Agüero
 
-0.2.6 (2026-09-04)
+0.0.9 (2026-06-10)
 ------------------
-* Revert "Enable Python bindings (`#29 <https://github.com/gazebo-release/gz_physics_vendor/issues/29>`_)" (`#32 <https://github.com/gazebo-release/gz_physics_vendor/issues/32>`_)
-  This reverts commit c85e77d3e0f66d03c58fe616baa73c17957867ab.
-* Contributors: Addisu Z. Taddese
+* Bump version to 7.8.0 (`#22 <https://github.com/gazebo-release/gz_physics_vendor/issues/22>`_)
+  Co-authored-by: Addisu Z. Taddese <addisuzt@intrinsic.ai>
+* Contributors: Jose Luis Rivero
 
-0.2.5 (2026-08-31)
+0.0.8 (2026-06-10)
 ------------------
-* Enable Python bindings (`#29 <https://github.com/gazebo-release/gz_physics_vendor/issues/29>`_)
-* Contributors: Addisu Z. Taddese
+* Bump version to 7.7.0 (`#21 <https://github.com/gazebo-release/gz_physics_vendor/issues/21>`_)
+* Contributors: Jose Luis Rivero
 
-0.2.4 (2026-07-23)
+0.0.7 (2025-10-24)
 ------------------
-* Bump version to 8.4.0 (`#25 <https://github.com/gazebo-release/gz_physics_vendor/issues/25>`_)
-* Contributors: Arjo Chakravarty
-
-0.2.3 (2025-09-04)
-------------------
-* Bump version to 8.3.0 (`#10 <https://github.com/gazebo-release/gz_physics_vendor/issues/10>`_)
+* Bump version to 7.6.0 (`#16 <https://github.com/gazebo-release/gz_physics_vendor/issues/16>`_)
 * Contributors: Ian Chen
 
-0.2.1 (2025-02-19)
+0.0.6 (2025-02-10)
 ------------------
-* Bump version to 8.1.0 (`#7 <https://github.com/gazebo-release/gz_physics_vendor/issues/7>`_)
-* Contributors: Carlos Agüero
-
-0.2.0 (2024-09-30)
-------------------
-* Bump version to 8.0.0 (`#3 <https://github.com/gazebo-release/gz_physics_vendor/issues/3>`_)
-* Apply prerelease suffix (`#2 <https://github.com/gazebo-release/gz_physics_vendor/issues/2>`_)
-  * Apply prerelease suffix
-  * Drop BUILD_DOCS
-  ---------
-* Upgrade to Ionic
+* Bump version to 7.5.0 (`#6 <https://github.com/gazebo-release/gz_physics_vendor/issues/6>`_)
 * Contributors: Addisu Z. Taddese
 
-0.1.1 (2024-07-15)
+0.0.5 (2024-11-12)
+------------------
+* Bump version to 7.4.0 (`#5 <https://github.com/gazebo-release/gz_physics_vendor/issues/5>`_)
+* Contributors: Addisu Z. Taddese
+
+0.0.4 (2024-07-15)
 ------------------
 * Update vendored package version to 7.3.0
 * Contributors: Addisu Z. Taddese
 
-0.1.0 (2024-04-23)
+0.0.3 (2024-04-25)
 ------------------
 * Use an alias target for root library
 * Contributors: Addisu Z. Taddese
