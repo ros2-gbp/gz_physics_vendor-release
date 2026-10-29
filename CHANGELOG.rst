@@ -2,6 +2,11 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.7 (2026-10-29)
+------------------
+* Bump version to 8.5.0 (`#36 <https://github.com/gazebo-release/gz_physics_vendor/issues/36>`_)
+* Contributors: Carlos Agüero
+
 0.2.6 (2026-09-04)
 ------------------
 * Revert "Enable Python bindings (`#29 <https://github.com/gazebo-release/gz_physics_vendor/issues/29>`_)" (`#32 <https://github.com/gazebo-release/gz_physics_vendor/issues/32>`_)
