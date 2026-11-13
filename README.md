@@ -1,3 +1,26 @@
+## gz_physics_vendor (lyrical) - 0.4.10-1
+
+The packages in the `gz_physics_vendor` repository were released into the `lyrical` distro by running `/Users/addisuzt/ws/.venv/bin/bloom-release --rosdistro lyrical gz_physics_vendor` on `Fri, 13 Nov 2026 18:53:59 -0000`
+
+The `gz_physics_vendor` package was released.
+
+Version of package(s) in repository `gz_physics_vendor`:
+
+- upstream repository: https://github.com/gazebo-release/gz_physics_vendor.git
+- release repository: https://github.com/ros2-gbp/gz_physics_vendor-release.git
+- rosdistro version: `0.4.9-1`
+- old version: `0.4.9-1`
+- new version: `0.4.10-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## gz_physics_vendor (jazzy) - 0.0.10-1
 
 The packages in the `gz_physics_vendor` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --ros-distro jazzy gz_physics_vendor --non-interactive --no-web` on `Thu, 29 Oct 2026 14:14:49 -0000`
